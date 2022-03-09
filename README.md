@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Early843
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in software engineering 
+- 🌱 I’m currently learning HTML, CSS, JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email: earlyeckles@gmail.com
 
